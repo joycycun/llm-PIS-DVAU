@@ -1,0 +1,19 @@
+1、python -m pip install openai
+
+2、配置ai api key
+在.env文件中添加以下内容：
+```
+AI_API_KEY=your_api_key
+```
+
+使用方法：
+```
+python3 main.py
+```
+3、检查环境变量是否存在：
+```
+echo $env:OPENAI_API_KEY
+```
+
+4、运行网页
+uvicorn main:app --reload

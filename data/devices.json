@@ -1,0 +1,26 @@
+{
+  "DACU001": {
+    "name": "DACU001",
+    "type": "DACU",
+    "status": "active",
+    "location": "front"
+  },
+  "DACU002": {
+    "name": "DACU002",
+    "type": "DACU",
+    "status": "active",
+    "location": "rear"
+  },
+  "PAIU001": {
+    "name": "PAIU001",
+    "type": "PAIU",
+    "status": "active",
+    "location": "CAB1"
+  },
+  "DECODER001": {
+    "name": "DECODER001",
+    "type": "DECODER",
+    "status": "active",
+    "location": "CAB1"
+  }
+}
